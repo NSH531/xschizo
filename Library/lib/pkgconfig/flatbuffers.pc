@@ -1,0 +1,9 @@
+libdir=C:/Users/Administrator/Documents/GitHub/xschizo/Library/lib
+includedir=C:/Users/Administrator/Documents/GitHub/xschizo/Library/include
+
+Name: FlatBuffers
+Description: Memory Efficient Serialization Library
+Version: 2.0.0
+
+Libs: -L${libdir} -lflatbuffers
+Cflags: -I${includedir}
