@@ -1,0 +1,462 @@
+{
+  "build": "py310haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0"
+  ],
+  "extracted_package_dir": "C:\\ProgramData\\Anaconda3\\pkgs\\absl-py-1.3.0-py310haa95532_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/absl/__init__.py",
+    "Lib/site-packages/absl/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/absl/__pycache__/app.cpython-310.pyc",
+    "Lib/site-packages/absl/__pycache__/command_name.cpython-310.pyc",
+    "Lib/site-packages/absl/app.py",
+    "Lib/site-packages/absl/command_name.py",
+    "Lib/site-packages/absl/flags/__init__.py",
+    "Lib/site-packages/absl/flags/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/absl/flags/__pycache__/_argument_parser.cpython-310.pyc",
+    "Lib/site-packages/absl/flags/__pycache__/_defines.cpython-310.pyc",
+    "Lib/site-packages/absl/flags/__pycache__/_exceptions.cpython-310.pyc",
+    "Lib/site-packages/absl/flags/__pycache__/_flag.cpython-310.pyc",
+    "Lib/site-packages/absl/flags/__pycache__/_flagvalues.cpython-310.pyc",
+    "Lib/site-packages/absl/flags/__pycache__/_helpers.cpython-310.pyc",
+    "Lib/site-packages/absl/flags/__pycache__/_validators.cpython-310.pyc",
+    "Lib/site-packages/absl/flags/__pycache__/_validators_classes.cpython-310.pyc",
+    "Lib/site-packages/absl/flags/__pycache__/argparse_flags.cpython-310.pyc",
+    "Lib/site-packages/absl/flags/_argument_parser.py",
+    "Lib/site-packages/absl/flags/_defines.py",
+    "Lib/site-packages/absl/flags/_exceptions.py",
+    "Lib/site-packages/absl/flags/_flag.py",
+    "Lib/site-packages/absl/flags/_flagvalues.py",
+    "Lib/site-packages/absl/flags/_helpers.py",
+    "Lib/site-packages/absl/flags/_validators.py",
+    "Lib/site-packages/absl/flags/_validators_classes.py",
+    "Lib/site-packages/absl/flags/argparse_flags.py",
+    "Lib/site-packages/absl/logging/__init__.py",
+    "Lib/site-packages/absl/logging/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/absl/logging/__pycache__/converter.cpython-310.pyc",
+    "Lib/site-packages/absl/logging/converter.py",
+    "Lib/site-packages/absl/testing/__init__.py",
+    "Lib/site-packages/absl/testing/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/absl/testing/__pycache__/_bazelize_command.cpython-310.pyc",
+    "Lib/site-packages/absl/testing/__pycache__/_pretty_print_reporter.cpython-310.pyc",
+    "Lib/site-packages/absl/testing/__pycache__/absltest.cpython-310.pyc",
+    "Lib/site-packages/absl/testing/__pycache__/flagsaver.cpython-310.pyc",
+    "Lib/site-packages/absl/testing/__pycache__/parameterized.cpython-310.pyc",
+    "Lib/site-packages/absl/testing/__pycache__/xml_reporter.cpython-310.pyc",
+    "Lib/site-packages/absl/testing/_bazelize_command.py",
+    "Lib/site-packages/absl/testing/_pretty_print_reporter.py",
+    "Lib/site-packages/absl/testing/absltest.py",
+    "Lib/site-packages/absl/testing/flagsaver.py",
+    "Lib/site-packages/absl/testing/parameterized.py",
+    "Lib/site-packages/absl/testing/xml_reporter.py",
+    "Lib/site-packages/absl_py-1.3.0.dist-info/AUTHORS",
+    "Lib/site-packages/absl_py-1.3.0.dist-info/INSTALLER",
+    "Lib/site-packages/absl_py-1.3.0.dist-info/LICENSE",
+    "Lib/site-packages/absl_py-1.3.0.dist-info/METADATA",
+    "Lib/site-packages/absl_py-1.3.0.dist-info/RECORD",
+    "Lib/site-packages/absl_py-1.3.0.dist-info/REQUESTED",
+    "Lib/site-packages/absl_py-1.3.0.dist-info/WHEEL",
+    "Lib/site-packages/absl_py-1.3.0.dist-info/direct_url.json",
+    "Lib/site-packages/absl_py-1.3.0.dist-info/top_level.txt"
+  ],
+  "fn": "absl-py-1.3.0-py310haa95532_0.conda",
+  "legacy_bz2_md5": "b4862875c496c833f3a256b2ddcaf8c1",
+  "legacy_bz2_size": 174547,
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "C:\\ProgramData\\Anaconda3\\pkgs\\absl-py-1.3.0-py310haa95532_0",
+    "type": 1
+  },
+  "md5": "f75d2a1e329fc87db3e8934ba159b45a",
+  "name": "absl-py",
+  "package_tarball_full_path": "C:\\ProgramData\\Anaconda3\\pkgs\\absl-py-1.3.0-py310haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/absl/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "edc339eecc24d93d47739c319adf89a5c691eb17dd3c9c8bfe5c91aa0383bee3",
+        "sha256_in_prefix": "edc339eecc24d93d47739c319adf89a5c691eb17dd3c9c8bfe5c91aa0383bee3",
+        "size_in_bytes": 584
+      },
+      {
+        "_path": "Lib/site-packages/absl/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "e11d929764063c4ce4d952a2bcd322c91705a3366b9b49834998c14b33e9ef3a",
+        "sha256_in_prefix": "e11d929764063c4ce4d952a2bcd322c91705a3366b9b49834998c14b33e9ef3a",
+        "size_in_bytes": 127
+      },
+      {
+        "_path": "Lib/site-packages/absl/__pycache__/app.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "48dca4052e1bd9db2d1d2683421b82ec149a95f07c63985780d82c0761eca2d8",
+        "sha256_in_prefix": "48dca4052e1bd9db2d1d2683421b82ec149a95f07c63985780d82c0761eca2d8",
+        "size_in_bytes": 13912
+      },
+      {
+        "_path": "Lib/site-packages/absl/__pycache__/command_name.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "b5ddffdc4799f7d3276c1e158d351b9e815645d7229cf122fcef4d6b9a07b977",
+        "sha256_in_prefix": "b5ddffdc4799f7d3276c1e158d351b9e815645d7229cf122fcef4d6b9a07b977",
+        "size_in_bytes": 1626
+      },
+      {
+        "_path": "Lib/site-packages/absl/app.py",
+        "path_type": "hardlink",
+        "sha256": "56d9976f8b306e135ae62c673b35648dc76662996c73c44c42079a8d680936c5",
+        "sha256_in_prefix": "56d9976f8b306e135ae62c673b35648dc76662996c73c44c42079a8d680936c5",
+        "size_in_bytes": 15352
+      },
+      {
+        "_path": "Lib/site-packages/absl/command_name.py",
+        "path_type": "hardlink",
+        "sha256": "9a7f861c215f2ddb8e30c5b927eb19f3e3a2c0dc74e271235d74fc56a8882087",
+        "sha256_in_prefix": "9a7f861c215f2ddb8e30c5b927eb19f3e3a2c0dc74e271235d74fc56a8882087",
+        "size_in_bytes": 2262
+      },
+      {
+        "_path": "Lib/site-packages/absl/flags/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "13014ad8eed42a8202eee8d5075c104b33ebc9ac536e5a0662d2a1642ea23d8c",
+        "sha256_in_prefix": "13014ad8eed42a8202eee8d5075c104b33ebc9ac536e5a0662d2a1642ea23d8c",
+        "size_in_bytes": 7665
+      },
+      {
+        "_path": "Lib/site-packages/absl/flags/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "983d6aef31086fac5cf554b05bf980b9c5fb8bfbd96478fb683a1f915e06a2a6",
+        "sha256_in_prefix": "983d6aef31086fac5cf554b05bf980b9c5fb8bfbd96478fb683a1f915e06a2a6",
+        "size_in_bytes": 3665
+      },
+      {
+        "_path": "Lib/site-packages/absl/flags/__pycache__/_argument_parser.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "48f87c610c77de0e1e873251223e649d385fed5d9551620634580593b73ae9ea",
+        "sha256_in_prefix": "48f87c610c77de0e1e873251223e649d385fed5d9551620634580593b73ae9ea",
+        "size_in_bytes": 20501
+      },
+      {
+        "_path": "Lib/site-packages/absl/flags/__pycache__/_defines.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "813424b67f25812bf5952e97622980827a2e7e22a6a749eff1fc641b248a2192",
+        "sha256_in_prefix": "813424b67f25812bf5952e97622980827a2e7e22a6a749eff1fc641b248a2192",
+        "size_in_bytes": 27117
+      },
+      {
+        "_path": "Lib/site-packages/absl/flags/__pycache__/_exceptions.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "d4824016b5a15fc6a206253766802bfd8014dfb7b0695ebe9bd4792a050e6e85",
+        "sha256_in_prefix": "d4824016b5a15fc6a206253766802bfd8014dfb7b0695ebe9bd4792a050e6e85",
+        "size_in_bytes": 3750
+      },
+      {
+        "_path": "Lib/site-packages/absl/flags/__pycache__/_flag.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "cd712daa246ae40d7213ff0d6d31dca50c9206660f27a87043a5da34b9506e5b",
+        "sha256_in_prefix": "cd712daa246ae40d7213ff0d6d31dca50c9206660f27a87043a5da34b9506e5b",
+        "size_in_bytes": 16421
+      },
+      {
+        "_path": "Lib/site-packages/absl/flags/__pycache__/_flagvalues.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "7d22983f386878830026f7dfb90baf37c50716a4ba870a1b769aab025b42a179",
+        "sha256_in_prefix": "7d22983f386878830026f7dfb90baf37c50716a4ba870a1b769aab025b42a179",
+        "size_in_bytes": 41589
+      },
+      {
+        "_path": "Lib/site-packages/absl/flags/__pycache__/_helpers.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "be99a4c8cc41933ca46edb6a05687e70f532834af400d54f21a53359d0c694ed",
+        "sha256_in_prefix": "be99a4c8cc41933ca46edb6a05687e70f532834af400d54f21a53359d0c694ed",
+        "size_in_bytes": 9354
+      },
+      {
+        "_path": "Lib/site-packages/absl/flags/__pycache__/_validators.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "638ceb71e9e970922258c904bdc891d2b79074889455ca8787c577950e407cc9",
+        "sha256_in_prefix": "638ceb71e9e970922258c904bdc891d2b79074889455ca8787c577950e407cc9",
+        "size_in_bytes": 13282
+      },
+      {
+        "_path": "Lib/site-packages/absl/flags/__pycache__/_validators_classes.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "10b90eba0ec411338861dfb3caf6a5a03e844c7a689c71f7ca56d2fcee2a125b",
+        "sha256_in_prefix": "10b90eba0ec411338861dfb3caf6a5a03e844c7a689c71f7ca56d2fcee2a125b",
+        "size_in_bytes": 6713
+      },
+      {
+        "_path": "Lib/site-packages/absl/flags/__pycache__/argparse_flags.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "6565e80f4ca1d19d219655712633ee077abf562b582ee5f697e799076dbc7c4e",
+        "sha256_in_prefix": "6565e80f4ca1d19d219655712633ee077abf562b582ee5f697e799076dbc7c4e",
+        "size_in_bytes": 11192
+      },
+      {
+        "_path": "Lib/site-packages/absl/flags/_argument_parser.py",
+        "path_type": "hardlink",
+        "sha256": "0a2120b2565566f80a363cbacd9a67d2671bcba2433282ddfd94f854a8511fc8",
+        "sha256_in_prefix": "0a2120b2565566f80a363cbacd9a67d2671bcba2433282ddfd94f854a8511fc8",
+        "size_in_bytes": 20534
+      },
+      {
+        "_path": "Lib/site-packages/absl/flags/_defines.py",
+        "path_type": "hardlink",
+        "sha256": "e26d32d6acf35b82c7cf8c01fd06bc8fcaf81e1df8c946b7b58d83bd2ea70cb5",
+        "sha256_in_prefix": "e26d32d6acf35b82c7cf8c01fd06bc8fcaf81e1df8c946b7b58d83bd2ea70cb5",
+        "size_in_bytes": 31800
+      },
+      {
+        "_path": "Lib/site-packages/absl/flags/_exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "2f0b3b659ae52c91bcdd51ee381e19e0235f712a0a5f9a499ec3510ada7e74cc",
+        "sha256_in_prefix": "2f0b3b659ae52c91bcdd51ee381e19e0235f712a0a5f9a499ec3510ada7e74cc",
+        "size_in_bytes": 3657
+      },
+      {
+        "_path": "Lib/site-packages/absl/flags/_flag.py",
+        "path_type": "hardlink",
+        "sha256": "e34467e0525e6ed55ce94059bef3e3ed6cf8fb476f4482af654a1ebae347970e",
+        "sha256_in_prefix": "e34467e0525e6ed55ce94059bef3e3ed6cf8fb476f4482af654a1ebae347970e",
+        "size_in_bytes": 17271
+      },
+      {
+        "_path": "Lib/site-packages/absl/flags/_flagvalues.py",
+        "path_type": "hardlink",
+        "sha256": "63aae69ce85a47ed2fe60ea43812ac93f2abb209bb4dbd56a737a16742c24caa",
+        "sha256_in_prefix": "63aae69ce85a47ed2fe60ea43812ac93f2abb209bb4dbd56a737a16742c24caa",
+        "size_in_bytes": 51333
+      },
+      {
+        "_path": "Lib/site-packages/absl/flags/_helpers.py",
+        "path_type": "hardlink",
+        "sha256": "448e1a1d6b9abb6064b19ecd21ac3518adad3217bb4d3b2085b919f68762439f",
+        "sha256_in_prefix": "448e1a1d6b9abb6064b19ecd21ac3518adad3217bb4d3b2085b919f68762439f",
+        "size_in_bytes": 13430
+      },
+      {
+        "_path": "Lib/site-packages/absl/flags/_validators.py",
+        "path_type": "hardlink",
+        "sha256": "fe1a55c138574212fa3c5380f7e2f665123eef32eed94c54fe14492565d8a07c",
+        "sha256_in_prefix": "fe1a55c138574212fa3c5380f7e2f665123eef32eed94c54fe14492565d8a07c",
+        "size_in_bytes": 14144
+      },
+      {
+        "_path": "Lib/site-packages/absl/flags/_validators_classes.py",
+        "path_type": "hardlink",
+        "sha256": "28b04984902df02d7c832d94abeabb6d414d4bf0213c19719701a2366e605975",
+        "sha256_in_prefix": "28b04984902df02d7c832d94abeabb6d414d4bf0213c19719701a2366e605975",
+        "size_in_bytes": 6157
+      },
+      {
+        "_path": "Lib/site-packages/absl/flags/argparse_flags.py",
+        "path_type": "hardlink",
+        "sha256": "a875f161d7cc96ce89380e5b8727c606961cd27e351f89c834bfd0ceddb36ff4",
+        "sha256_in_prefix": "a875f161d7cc96ce89380e5b8727c606961cd27e351f89c834bfd0ceddb36ff4",
+        "size_in_bytes": 14437
+      },
+      {
+        "_path": "Lib/site-packages/absl/logging/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "21d1834ab68b2bd034992b958b4bbc361da9bcfad85184241dd3a25c5ffbf1ab",
+        "sha256_in_prefix": "21d1834ab68b2bd034992b958b4bbc361da9bcfad85184241dd3a25c5ffbf1ab",
+        "size_in_bytes": 41407
+      },
+      {
+        "_path": "Lib/site-packages/absl/logging/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "d3d7408388a8e9b686f9ac2e400d89117fd7e5994b9cce582d8efc2d57c245d9",
+        "sha256_in_prefix": "d3d7408388a8e9b686f9ac2e400d89117fd7e5994b9cce582d8efc2d57c245d9",
+        "size_in_bytes": 37548
+      },
+      {
+        "_path": "Lib/site-packages/absl/logging/__pycache__/converter.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "b66b6e8824d424c29c33ce8343d2bd65cbafed2e375082a43fbc3fa0c4f9eb54",
+        "sha256_in_prefix": "b66b6e8824d424c29c33ce8343d2bd65cbafed2e375082a43fbc3fa0c4f9eb54",
+        "size_in_bytes": 5217
+      },
+      {
+        "_path": "Lib/site-packages/absl/logging/converter.py",
+        "path_type": "hardlink",
+        "sha256": "793b9cc753a38b1ed858c414c962b33d14ebc462ee0a436c4e625ad465ba93de",
+        "sha256_in_prefix": "793b9cc753a38b1ed858c414c962b33d14ebc462ee0a436c4e625ad465ba93de",
+        "size_in_bytes": 6353
+      },
+      {
+        "_path": "Lib/site-packages/absl/testing/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "edc339eecc24d93d47739c319adf89a5c691eb17dd3c9c8bfe5c91aa0383bee3",
+        "sha256_in_prefix": "edc339eecc24d93d47739c319adf89a5c691eb17dd3c9c8bfe5c91aa0383bee3",
+        "size_in_bytes": 584
+      },
+      {
+        "_path": "Lib/site-packages/absl/testing/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "3dad56b7377ea188960c3dc7185145b6321a114016261e01b08f8febb839831c",
+        "sha256_in_prefix": "3dad56b7377ea188960c3dc7185145b6321a114016261e01b08f8febb839831c",
+        "size_in_bytes": 135
+      },
+      {
+        "_path": "Lib/site-packages/absl/testing/__pycache__/_bazelize_command.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "9a63a804b16f15c3b67beaf97ac246b7fedcbf4a447265e9f1574169e205367f",
+        "sha256_in_prefix": "9a63a804b16f15c3b67beaf97ac246b7fedcbf4a447265e9f1574169e205367f",
+        "size_in_bytes": 1595
+      },
+      {
+        "_path": "Lib/site-packages/absl/testing/__pycache__/_pretty_print_reporter.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "67690a0704837a610f41e5bbf55b12da74b51b19c5b2d4a72cb56b62e4ab14a1",
+        "sha256_in_prefix": "67690a0704837a610f41e5bbf55b12da74b51b19c5b2d4a72cb56b62e4ab14a1",
+        "size_in_bytes": 3006
+      },
+      {
+        "_path": "Lib/site-packages/absl/testing/__pycache__/absltest.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "ca285d70730709ac8186987a239aa88d7420a0a0985d1a8ac712c0009d5f1ae8",
+        "sha256_in_prefix": "ca285d70730709ac8186987a239aa88d7420a0a0985d1a8ac712c0009d5f1ae8",
+        "size_in_bytes": 77590
+      },
+      {
+        "_path": "Lib/site-packages/absl/testing/__pycache__/flagsaver.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "b08c2fec00a1edc5ab8ad102df65cc9f371bc2f115482afeccf9e5e3f6b39c61",
+        "sha256_in_prefix": "b08c2fec00a1edc5ab8ad102df65cc9f371bc2f115482afeccf9e5e3f6b39c61",
+        "size_in_bytes": 6273
+      },
+      {
+        "_path": "Lib/site-packages/absl/testing/__pycache__/parameterized.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "46aa747c7733942e4713e3bb011e79c154814c2b07a60e0474a80b2f18f464ea",
+        "sha256_in_prefix": "46aa747c7733942e4713e3bb011e79c154814c2b07a60e0474a80b2f18f464ea",
+        "size_in_bytes": 22926
+      },
+      {
+        "_path": "Lib/site-packages/absl/testing/__pycache__/xml_reporter.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "fd3543b93c15de1b27b7ec578b53393c9d6988b914275cc96ed57b2cd70f44c9",
+        "sha256_in_prefix": "fd3543b93c15de1b27b7ec578b53393c9d6988b914275cc96ed57b2cd70f44c9",
+        "size_in_bytes": 18167
+      },
+      {
+        "_path": "Lib/site-packages/absl/testing/_bazelize_command.py",
+        "path_type": "hardlink",
+        "sha256": "478ad5e23e40392a773cd91540a3f523e48a63341b5f27ae88e4f7776ddc4cb0",
+        "sha256_in_prefix": "478ad5e23e40392a773cd91540a3f523e48a63341b5f27ae88e4f7776ddc4cb0",
+        "size_in_bytes": 2302
+      },
+      {
+        "_path": "Lib/site-packages/absl/testing/_pretty_print_reporter.py",
+        "path_type": "hardlink",
+        "sha256": "9cbe6a4ac61617a3bf0ba2fd3dec701523f1b3af1673ce5185d85104dd80813c",
+        "sha256_in_prefix": "9cbe6a4ac61617a3bf0ba2fd3dec701523f1b3af1673ce5185d85104dd80813c",
+        "size_in_bytes": 3140
+      },
+      {
+        "_path": "Lib/site-packages/absl/testing/absltest.py",
+        "path_type": "hardlink",
+        "sha256": "255b373e6c17d2fa600691524fc7bda27b2361935088fbb5e4f6a18bd538049f",
+        "sha256_in_prefix": "255b373e6c17d2fa600691524fc7bda27b2361935088fbb5e4f6a18bd538049f",
+        "size_in_bytes": 95906
+      },
+      {
+        "_path": "Lib/site-packages/absl/testing/flagsaver.py",
+        "path_type": "hardlink",
+        "sha256": "ded3e6a9359ccf4e2ca98985b7699489c7ed750f359bb18320ddb4dfecbf94bd",
+        "sha256_in_prefix": "ded3e6a9359ccf4e2ca98985b7699489c7ed750f359bb18320ddb4dfecbf94bd",
+        "size_in_bytes": 6552
+      },
+      {
+        "_path": "Lib/site-packages/absl/testing/parameterized.py",
+        "path_type": "hardlink",
+        "sha256": "3ca84fe415a7883153696869bad91c2e65f900a2a27a5613017c80786fd2aeb4",
+        "sha256_in_prefix": "3ca84fe415a7883153696869bad91c2e65f900a2a27a5613017c80786fd2aeb4",
+        "size_in_bytes": 27120
+      },
+      {
+        "_path": "Lib/site-packages/absl/testing/xml_reporter.py",
+        "path_type": "hardlink",
+        "sha256": "4316fdf1c2e1f5bf2e9847ec7fba1e643d004585af469c685b515fa82ec6512e",
+        "sha256_in_prefix": "4316fdf1c2e1f5bf2e9847ec7fba1e643d004585af469c685b515fa82ec6512e",
+        "size_in_bytes": 21358
+      },
+      {
+        "_path": "Lib/site-packages/absl_py-1.3.0.dist-info/AUTHORS",
+        "path_type": "hardlink",
+        "sha256": "6282ee76cca569083b5b998b9f816ba1032e127b8dc7c46942b86477fc6fbfa5",
+        "sha256_in_prefix": "6282ee76cca569083b5b998b9f816ba1032e127b8dc7c46942b86477fc6fbfa5",
+        "size_in_bytes": 296
+      },
+      {
+        "_path": "Lib/site-packages/absl_py-1.3.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/absl_py-1.3.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "sha256_in_prefix": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "size_in_bytes": 11358
+      },
+      {
+        "_path": "Lib/site-packages/absl_py-1.3.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "a1269e005dde9ad7a11e1098d190092f9b13b6f2e39617a02f61c14f9b8b02a4",
+        "sha256_in_prefix": "a1269e005dde9ad7a11e1098d190092f9b13b6f2e39617a02f61c14f9b8b02a4",
+        "size_in_bytes": 2310
+      },
+      {
+        "_path": "Lib/site-packages/absl_py-1.3.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "da82cfd27f0fe09bc51f04d01ef7ba88a4682e69675306d09b68af6945777b67",
+        "sha256_in_prefix": "da82cfd27f0fe09bc51f04d01ef7ba88a4682e69675306d09b68af6945777b67",
+        "size_in_bytes": 3770
+      },
+      {
+        "_path": "Lib/site-packages/absl_py-1.3.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/absl_py-1.3.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/absl_py-1.3.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "32b092090e7d46ffcc0c0009e4e2fded2731f23fb553c9abce0bb5c2da1f6739",
+        "sha256_in_prefix": "32b092090e7d46ffcc0c0009e4e2fded2731f23fb553c9abce0bb5c2da1f6739",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "Lib/site-packages/absl_py-1.3.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "d0cff5cf6ec78b906c8f51214df13f6a3749745c5e3ff6b0d315e74780575e12",
+        "sha256_in_prefix": "d0cff5cf6ec78b906c8f51214df13f6a3749745c5e3ff6b0d315e74780575e12",
+        "size_in_bytes": 5
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "f483c8b9ce1cf6b4e8f08fb0ee1979bbb343a3123c2d243340ef2b88e70c29db",
+  "size": 176413,
+  "subdir": "win-64",
+  "timestamp": 1666363028334,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/absl-py-1.3.0-py310haa95532_0.conda",
+  "version": "1.3.0"
+}

@@ -1,0 +1,134 @@
+{
+  "build": "py310haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0"
+  ],
+  "extracted_package_dir": "C:\\ProgramData\\Anaconda3\\pkgs\\async-timeout-4.0.2-py310haa95532_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/async_timeout-4.0.2.dist-info/INSTALLER",
+    "Lib/site-packages/async_timeout-4.0.2.dist-info/LICENSE",
+    "Lib/site-packages/async_timeout-4.0.2.dist-info/METADATA",
+    "Lib/site-packages/async_timeout-4.0.2.dist-info/RECORD",
+    "Lib/site-packages/async_timeout-4.0.2.dist-info/REQUESTED",
+    "Lib/site-packages/async_timeout-4.0.2.dist-info/WHEEL",
+    "Lib/site-packages/async_timeout-4.0.2.dist-info/direct_url.json",
+    "Lib/site-packages/async_timeout-4.0.2.dist-info/top_level.txt",
+    "Lib/site-packages/async_timeout-4.0.2.dist-info/zip-safe",
+    "Lib/site-packages/async_timeout/__init__.py",
+    "Lib/site-packages/async_timeout/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/async_timeout/py.typed"
+  ],
+  "fn": "async-timeout-4.0.2-py310haa95532_0.conda",
+  "legacy_bz2_md5": "851a89df817c0f967a4275f633d3d4de",
+  "legacy_bz2_size": 12437,
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "C:\\ProgramData\\Anaconda3\\pkgs\\async-timeout-4.0.2-py310haa95532_0",
+    "type": 1
+  },
+  "md5": "f128fbc31bbfb133e77c8fd443f752b0",
+  "name": "async-timeout",
+  "package_tarball_full_path": "C:\\ProgramData\\Anaconda3\\pkgs\\async-timeout-4.0.2-py310haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/async_timeout-4.0.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/async_timeout-4.0.2.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "e18d7bb8f513e2c46bb585c94b585bd30720dd3ccb21ddb0786f72d16658f92c",
+        "sha256_in_prefix": "e18d7bb8f513e2c46bb585c94b585bd30720dd3ccb21ddb0786f72d16658f92c",
+        "size_in_bytes": 568
+      },
+      {
+        "_path": "Lib/site-packages/async_timeout-4.0.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "ca3808a03d548013c8fa8d92e9a6ab9e24782e19918b47026a1185c1b720582c",
+        "sha256_in_prefix": "ca3808a03d548013c8fa8d92e9a6ab9e24782e19918b47026a1185c1b720582c",
+        "size_in_bytes": 4173
+      },
+      {
+        "_path": "Lib/site-packages/async_timeout-4.0.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "813244f46b0d19bf111ef12eb28a129b6569fec4d5bb40751483f1b47cee7ed7",
+        "sha256_in_prefix": "813244f46b0d19bf111ef12eb28a129b6569fec4d5bb40751483f1b47cee7ed7",
+        "size_in_bytes": 1018
+      },
+      {
+        "_path": "Lib/site-packages/async_timeout-4.0.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/async_timeout-4.0.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/async_timeout-4.0.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "8a6a589f94909820d61b32484aa34ca7280c06a0a43ba45cc529bf99fe360e4b",
+        "sha256_in_prefix": "8a6a589f94909820d61b32484aa34ca7280c06a0a43ba45cc529bf99fe360e4b",
+        "size_in_bytes": 101
+      },
+      {
+        "_path": "Lib/site-packages/async_timeout-4.0.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "f683387bb4f0abc883ffbfd0dcccf413a18f201eaf26f445a3e501c1442d0435",
+        "sha256_in_prefix": "f683387bb4f0abc883ffbfd0dcccf413a18f201eaf26f445a3e501c1442d0435",
+        "size_in_bytes": 14
+      },
+      {
+        "_path": "Lib/site-packages/async_timeout-4.0.2.dist-info/zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/async_timeout/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "37e25423f544c611e73b47a6905ffe874f1d9781c180e8ded7a3780a2f96fa0a",
+        "sha256_in_prefix": "37e25423f544c611e73b47a6905ffe874f1d9781c180e8ded7a3780a2f96fa0a",
+        "size_in_bytes": 7487
+      },
+      {
+        "_path": "Lib/site-packages/async_timeout/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "1c43aa16e6f666c6f7f9f685cc1d0900abb272bee582cfb5d211e08ce8b429b2",
+        "sha256_in_prefix": "1c43aa16e6f666c6f7f9f685cc1d0900abb272bee582cfb5d211e08ce8b429b2",
+        "size_in_bytes": 6845
+      },
+      {
+        "_path": "Lib/site-packages/async_timeout/py.typed",
+        "path_type": "hardlink",
+        "sha256": "b72a33cd14f57f38971130f1a249aecadea384e9ad8d46e754d25d65c1bb8a4d",
+        "sha256_in_prefix": "b72a33cd14f57f38971130f1a249aecadea384e9ad8d46e754d25d65c1bb8a4d",
+        "size_in_bytes": 12
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "4071e91cb565e145bebf4238d8686f0eb94564c3030096bec171e17b813219d1",
+  "size": 12607,
+  "subdir": "win-64",
+  "timestamp": 1664876511141,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/async-timeout-4.0.2-py310haa95532_0.conda",
+  "version": "4.0.2"
+}
