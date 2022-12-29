@@ -198,22 +198,24 @@ def poolingOverlap(mat, f, stride=None, method='max', pad=False,
         return result, pos
     else:
         return result
+M1=[]
+def zerone(x):
+    return (x-np.min(x))/(np.max(x)-np.min(x))
 atlas_filename = "64/64/2mm/maps.nii.gz"
-
 def n11(folder):
         import nibabel
         d19=[]
-        for i in os.listdir(folder)[0:30]:
+        for i in os.listdir(folder):
+            if i.endswith('.nii.gz'):
                 img = nibabel.load(os.path.join(folder, i))
                 a = np.array(img.dataobj,dtype=np.float32)
                 d19.append(a)
-
         for i in  d19:
             print(i.shape)
             #i = np.asarray(i, dtype=np.float32, shape=((64, 64, 33, 112)))
             x2q=        poolingOverlap(np.array(i,dtype=np.float32),12,3)
-            x3q=np.array(poolingOverlap(x2q,2,2))
-            x4q=np.array(poolingOverlap(x3q,2,2))
+            x3q=np.array(poolingOverlap(x2q,2,2,method="mean"))
+            x4q=np.array(poolingOverlap(np.tanh(zerone(x3q)),2,2,method="mean"))
             jp=np.array(poolingOverlap(x4q,3,3))
 
             #qare=MyCustomSGD(jp,1e-6,20,2,1,0)
@@ -221,7 +223,7 @@ def n11(folder):
 
            # MyCustomSGD(np.array(poolingOverlap(x4q,3,3)[0][0]),0.001,50,2,5)
             #poolingOverlap(i,12,3)
-            M1.append(sigmoid(np.array(jp,dtype=np.float64)))
+            M1.append(np.max(np.tanh(np.array(jp,dtype=np.float64))))
             #m2.append(pandas.DataFrame(sigmoid(np.array(net2(xa),dtype=np.float64))[0][0]))
         return pandas.DataFrame(M1).to_html()
 
